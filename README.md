@@ -1,6 +1,7 @@
 # plant_app
 
-A new Flutter project.
+Application made with the TheFlutterWay's tutorial with tiny changes.
+https://www.youtube.com/watch?v=LN668OAUrK4&ab_channel=TheFlutterWay
 
 ## Getting Started
 
